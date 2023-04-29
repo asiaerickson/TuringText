@@ -10,6 +10,7 @@ using namespace std;
 
 class Game {
 private:
+    int responseCount;
     string judgePhonenum;
     string aiLetter;
     string playerPhonenum;
